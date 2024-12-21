@@ -1,6 +1,6 @@
 # Information hub system
 
-This project is a information hub System that allows for efficient management of a library's operations. It provides functionalities to track books, customers, employees, book issuance, and returns. The system, done using SQL, maintains a comprehensive database of books, their availability status, rental cost, and other relevant details. It also enables effective management of customers and employees associated with the library.
+The Information Hub System is a comprehensive solution for managing resources efficiently. Designed to streamline operations, it offers features for cataloging, tracking, and maintaining information or assets. Ideal for libraries, offices, or any setting that requires organized resource management, this system is user-friendly, scalable, and easily customizable to fit diverse needs.
 
 ## Database Setup
 Create a new database named "Library" to store the information.
